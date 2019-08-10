@@ -27,9 +27,12 @@ psql -d news -f newsdata.sql
 * Explore the tables by using ``` \dt ``` or ``` \d table ``` and ``` select ``` commands
 
 ## Run the Script
-* cd into the folder within the vagrant directory in the vagrant machine that contains the projectone.py file
+* On your local computer cd into the folder containing the vagrant file
+* run the command: ``` vagrant up ```
+* run the command: ``` vagrant ssh ```
+* run the command: ``` cd \vagrant ```
+* cd into the folder that contains the projectone.py file
 * Run the command: ``` python projectone.py ```
-
 * Sample output can be seen in the SampleOutput.txt file
 
 ## Author
