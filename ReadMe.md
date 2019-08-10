@@ -4,7 +4,7 @@ This project is an internal reporting tool that will extract data from a newspap
 
 ## Installation
 * Download [Virtual Box](https://www.virtualbox.org/wiki/Download_Old_Builds_5_1)
-* Download [Vagrant] (https://www.vagrantup.com/downloads.html)
+* Download [Vagrant](https://www.vagrantup.com/downloads.html)
 * Download the VM Configuration:
 	- Fork and clone the repository here: https://github.com/udacity/fullstack-nanodegree-vm
 * cd into the fullstack-nanodegree-vm folder and then cd into the vagrant folder
@@ -15,7 +15,7 @@ This project is an internal reporting tool that will extract data from a newspap
 * Any edits to the folder on your computer will be reflected here
 
 ## Get the newspaper data
-* Download the newsdata.sql data that can be found [here] (https://classroom.udacity.com/nanodegrees/nd004/parts/51200cee-6bb3-4b55-b469-7d4dd9ad7765/modules/c57b57d4-29a8-4c5f-9bb8-5d53df3e48f4/lessons/bc938915-0f7e-4550-a48f-82241ab649e3/concepts/a9cf98c8-0325-4c68-b972-58d5957f1a91)
+* Download the newsdata.sql data that can be found [here](https://classroom.udacity.com/nanodegrees/nd004/parts/51200cee-6bb3-4b55-b469-7d4dd9ad7765/modules/c57b57d4-29a8-4c5f-9bb8-5d53df3e48f4/lessons/bc938915-0f7e-4550-a48f-82241ab649e3/concepts/a9cf98c8-0325-4c68-b972-58d5957f1a91)
 * Copy the newsdata.sql file to the vagrant directory
 
 ## Connect to database
